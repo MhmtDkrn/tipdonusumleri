@@ -20,5 +20,4 @@ if (isSuccess || isCompleted)
 if (isSuccess != isCompleted)
     Console.WriteLine("Fine!");
 else 
-
     Console.WriteLine("Enough!");
